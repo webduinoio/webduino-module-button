@@ -1,0 +1,14 @@
+Blockly.Msg.DEMO_BUTTON = "点击按钮";
+Blockly.Msg.DEMO_BUTTON_SET = "设定";
+Blockly.Msg.DEMO_BUTTON_TO = ""
+Blockly.Msg.DEMO_BUTTON_TO_CREATE = "按钮数量为";
+Blockly.Msg.DEMO_BUTTON_BUTTONS = "";
+Blockly.Msg.DEMO_BUTTON_TEXT_OF = "的第";
+Blockly.Msg.DEMO_BUTTON_BUTTON_TO = "个按钮文字为";
+Blockly.Msg.DEMO_BUTTON_WHEN = "当";
+Blockly.Msg.DEMO_BUTTON_CLICK_EVENT = "按下";
+Blockly.Msg.DEMO_BUTTON_MOUSEOVER_EVENT = "滑过";
+Blockly.Msg.DEMO_BUTTON_BUTTON = "的第";
+Blockly.Msg.DEMO_BUTTON_IS_BEING = "个按钮被";
+Blockly.Msg.DEMO_BUTTON_WHEN_END = "时";
+Blockly.Msg.DEMO_BUTTON_DO = "执行";

@@ -1,0 +1,14 @@
+Blockly.Msg.DEMO_BUTTON = "Click Button";
+Blockly.Msg.DEMO_BUTTON_SET = "Set";
+Blockly.Msg.DEMO_BUTTON_TO = "to "
+Blockly.Msg.DEMO_BUTTON_TO_CREATE = "to create";
+Blockly.Msg.DEMO_BUTTON_BUTTONS = "button(s)";
+Blockly.Msg.DEMO_BUTTON_TEXT_OF = "text of button";
+Blockly.Msg.DEMO_BUTTON_BUTTON_TO = "to";
+Blockly.Msg.DEMO_BUTTON_WHEN = "When";
+Blockly.Msg.DEMO_BUTTON_CLICK_EVENT = "clicked";
+Blockly.Msg.DEMO_BUTTON_MOUSEOVER_EVENT = "hovered";
+Blockly.Msg.DEMO_BUTTON_BUTTON = "button";
+Blockly.Msg.DEMO_BUTTON_IS_BEING = "is being";
+Blockly.Msg.DEMO_BUTTON_WHEN_END = "";
+Blockly.Msg.DEMO_BUTTON_DO = "Do";

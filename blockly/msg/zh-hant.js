@@ -1,0 +1,1 @@
+MSG.catDemoButton = "點擊按鈕";

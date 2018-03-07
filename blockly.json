@@ -1,0 +1,14 @@
+{
+  "types": ["button_class", "button_count", "button_listener"],
+  "category": "catDemoAll",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "button-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
