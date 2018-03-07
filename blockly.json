@@ -1,5 +1,5 @@
 {
-  "types": ["button_class", "button_count", "button_listener"],
+  "types": ["button_class", "button_count", "button_text", "button_listener"],
   "category": "catDemoAll",
   "scripts": [
     "blockly/blocks.js",
