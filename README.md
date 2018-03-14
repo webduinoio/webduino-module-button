@@ -1,4 +1,4 @@
-# webduino-module-button
+# webduino-module-demo-button
 
 Webduino Module for Button Clicking.
 
@@ -7,7 +7,7 @@ The module that can display interactive button on demo panel.
 ## Installation
 
 ```shell
-bower install https://github.com/webduinoio/webduino-module-button.git
+bower install https://github.com/webduinoio/webduino-module-demo-button.git
 ```
 
 ## License
